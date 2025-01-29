@@ -20,7 +20,7 @@ This is the first project of many that I plan to build on front-end mentor. This
 ![](./images/final-output.png)
 
 ### Links
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: [Site URL](https://a-d14.github.io/qr-frontend-mentor/)
 
 ## My process
 - I always start by resetting all the default browser styles so I can start styling from scratch.
