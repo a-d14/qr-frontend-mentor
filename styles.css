@@ -46,7 +46,7 @@ body {
 
     width: 100%;
     max-width: 32rem;
-    /* height: 49.9rem; */
+    height: 49.9rem;
     text-align: center;
     padding: var(--spacing-200) var(--spacing-200) var(--spacing-500) var(--spacing-200);
     background-color: #FFFFFF;
